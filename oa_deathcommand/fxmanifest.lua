@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 author 'Omer'
-version '0.02'
+version '1.0'
 
 
 
