@@ -6,4 +6,7 @@ Standalone death command
 Just add the files to the resources folder and add 'ensure oa_deathcommand', and thats it.
 
 
+# Usage
+'/die'
+
 enjoy :D
